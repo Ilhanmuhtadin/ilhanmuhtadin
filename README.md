@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Ilhan Muhtadin! 👋
 
-<!--
-**Ilhanmuhtadin/ilhanmuhtadin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 23-year-old undergraduate student passionate about machine learning and its applications in solving real-world problems.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently:
+- TensorFlow: Expanding my knowledge by delving deeper into neural networks and deep learning.
+- Docker: Learning to containerize my applications for easy deployment and scalability
+- and maybe in the next few months I will start learning could azure
+
+
+🔭 Here are some of the things I'm working on:
+- Developing predictive models for student performance using Python, sklearn and TensorFlow.
+- Explore pandas, numpy data and several statistical methods for cleaning and selection feature
+- Exploring data visualization techniques with libraries like Matplotlib and Seaborn.
+- Learning to containerize applications with Docker for easy deployment.
+  
+
+💻 Languages and Tools:
+- Python: My primary language for implementing machine learning algorithms.
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, TensorFlow.
+- Database: MySQL.
+- Tools: Docker, MLflow.
+
+
