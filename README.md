@@ -1,6 +1,6 @@
 # Hi there, I'm Ilhan Muhtadin! 👋
 
-🎓 I'm a 23-year-old undergraduate student passionate about machine learning and its applications in solving real-world problems.
+🎓 I'm a 21-year-old undergraduate student passionate about machine learning and its applications in solving real-world problems.
 
 
 🌱 Currently:
