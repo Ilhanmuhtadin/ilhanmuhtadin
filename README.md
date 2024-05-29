@@ -6,7 +6,7 @@
 🌱 Currently:
 - TensorFlow: Expanding my knowledge by delving deeper into neural networks and deep learning.
 - Docker: Learning to containerize my applications for easy deployment and scalability
-- and maybe in the next few months I will start learning could azure
+- I start learning could azure
 
 
 🔭 Here are some of the things I'm working on:
