@@ -22,5 +22,3 @@
 - Database: MySQL.
 - Tools: Docker, MLflow.
 
-**Project Link:** [https://ilhanmuhtadin.azurewebsites.net/](https://ilhanmuhtadin.azurewebsites.net/)
-
