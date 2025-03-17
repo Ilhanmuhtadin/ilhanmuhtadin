@@ -18,7 +18,7 @@
 
 💻 Languages and Tools:
 - Python: My primary language for implementing machine learning algorithms.
-- Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, TensorFlow.
+- Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-learn, TensorFlow,Spacy.
 - Database: MySQL.
-- Tools: Docker, MLflow.
+- Tools: Docker, MLflow,AWS,Langchain
 
